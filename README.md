@@ -1,6 +1,6 @@
 # modella
 
-My first website.
+My first website ever. I put it here only because of my sentiment.
 
 The graphics and logo were made by me.
 
